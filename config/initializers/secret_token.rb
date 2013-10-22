@@ -9,4 +9,3 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Fourds::Application.config.secret_key_base = 'f2007f20ca56d86dbc2814d59a8cd7b51426aec6fd7e4d1b71708f723d55dc39e0f15f1bb1b6735a76c882f6ea8c6aa606e8375e275c537588d574d8bfb16e0e'

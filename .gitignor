@@ -1,0 +1,14 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+*.tmproj
+solr/data
+solr/pids
+*.idea/
+log/sunspot*
+.sass-cache/
+public/uploads
+config/newrelic.yml
+.DS_Store
+**/.DS_Store
