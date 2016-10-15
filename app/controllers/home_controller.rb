@@ -8,9 +8,12 @@ class HomeController < ApplicationController
   def show
   end
 
-  def destroy
+  def index1
   end
 
-  def get_user
+  def compare1
+  end
+
+  def show1
   end
 end
