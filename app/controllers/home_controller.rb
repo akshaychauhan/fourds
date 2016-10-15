@@ -16,4 +16,13 @@ class HomeController < ApplicationController
 
   def show1
   end
+
+  def index1
+  end
+
+  def compare1
+  end
+
+  def show1
+  end
 end
