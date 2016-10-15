@@ -10,4 +10,7 @@ class HomeController < ApplicationController
 
   def destroy
   end
+
+  def get_user
+  end
 end
