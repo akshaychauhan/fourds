@@ -14,5 +14,17 @@ class ApplicationController < ActionController::Base
   def hello_USA
   	puts "hello world"
   end
+
+  def hello_world_temo
+  	puts "hello world"
+  end
+
+  def hello_india_temo
+  	puts "hello world"
+  end
+
+  def hello_USA_temo
+  	puts "hello world"
+  end
 end
 
